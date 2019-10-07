@@ -1,0 +1,180 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+
+.text1{
+  padding-left: 16px;
+  font-size: 17px;
+  font-weight: bold;
+     font-family: "Times New Roman", Times, serif;
+
+}
+
+.text2{
+  padding-left: 16px;
+  font-size: 17px;
+  font-weight: bold;
+   font-family: "Times New Roman", Times, serif;
+}
+
+.text3{
+    padding-left: 16px;
+  font-size: 17px;
+   font-family: "Times New Roman", Times, serif;
+}
+
+.text4{
+  padding-right: 5px;
+  display:inline;
+float:left;
+   font-weight: bold;
+   font-family: "Times New Roman", Times, serif;
+}
+.text5{
+  padding-top: 6px;
+  display:inline;
+float:left;
+   font-weight: lighter;
+   font-size: 10px;
+   font-family: "Times New Roman", Times, serif;
+}
+
+.text6{
+  text-decoration: line-through;
+  color:grey;
+  padding-right: 5px;
+  display:inline;
+float:left;
+   font-weight: bold;
+   font-family: "Times New Roman", Times, serif;
+}
+
+.text7{
+  text-decoration: line-through;
+  color: grey;
+  padding-top: 6px;
+  display:inline;
+float:left;
+   font-weight: lighter;
+   font-size: 10px;
+   font-family: "Times New Roman", Times, serif;
+}
+.space {
+ display: inline-block;
+}
+.aligning {
+  float: right;
+  margin: 0 7%;
+  width: 80%;
+
+}
+
+#pair{
+  position:absolute;
+  width:100%;
+  height:2px;
+  background:black;
+  top:11px;
+  left:0px;
+  
+}
+
+.btn {
+  padding-bottom: 15px;
+  padding-top: 15px;
+  font-size: 14px;
+} 
+  
+#text4, #text5
+{
+    display:inline-block;
+}
+
+#text6, #text7
+{
+    display:inline-block;
+}
+
+.container {
+  background-color:#898A98;
+  width: 1500px;
+  height: 800px;
+}
+.row1 {
+  background-color: white;
+  width: 900px;
+  margin-left: 100px;
+  height: 160px;
+}
+.row2 {
+  background-color: white;
+  width: 900px;
+  margin-left: 100px;
+  height: 160px;
+}
+.row3 {
+  background-color: white;
+  width: 900px;
+  margin-left: 100px;
+  height: 160px;
+}
+
+.one {
+background-color: mintcream;
+height: 160px;
+ 
+}
+
+.two{
+  background-color: mintcream;
+  height: 160px;
+  
+
+}
+.three{
+  background-color:mintcream;
+  height: 160px;
+ 
+}
+
+.singapore{
+  height: 24px;
+  width: 130px;
+  color:white;
+  background-color: black;
+
+}
+.hongkong{
+    height: 24px;
+  width: 140px;
+  color:white;
+  background-color: black;
+
+}
+.ondemand{
+
+    height: 24px;
+  width: 190px;
+  color:white;
+  background-color: black;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
